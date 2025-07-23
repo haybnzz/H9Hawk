@@ -78,7 +78,7 @@ The pre-trained model is fine-tuned on the VisDrone dataset for aerial object de
 ## 📊 Dataset
 
 The model was trained on the [VisDrone dataset](https://github.com/VisDrone/VisDrone-Dataset), which contains images and annotations for various object categories.
-
+ https://www.kaggle.com/code/haydenbanz/aerial-object-detection-git?kernelSessionId=252036752
 ## 📜 License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License. See the [LICENSE](LICENSE) file for more details.
